@@ -1,11 +1,12 @@
 import logo from "./logo.svg";
 import "./App.css";
+import Weather from "./Weather.js";
 
 function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Create React App</h1>
+        <Weather />
         <footer>
           This project was coded by Anna Ziętarska and is{" "}
           <a
