@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Weather from "./Weather.js";
 
@@ -12,6 +11,7 @@ function App() {
           <a
             href="https://github.com/AnnaZietarska/project-pogodowy"
             target="_blank"
+            rel="noreferrer"
           >
             open-sourced on GitHub
           </a>
