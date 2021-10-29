@@ -11,7 +11,7 @@ function App() {
           <a
             href="https://github.com/AnnaZietarska/project-pogodowy"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>
